@@ -14,7 +14,7 @@ _Fair Play_ is a simple Android app, intended for use by teachers who need to ca
  
     > As a math teacher with an interactive teaching style, I want to select individual students in a random order for solving problems at the whiteboard, to lessen the likelihood that some students will feel picked on by being called on more frequently than they perceive to be fair.
 
-* Teachers who conduct group-oriented activities, but don't want this to encourage long-term cliques within the class.
+* Teachers or facilitators who conduct group-oriented activities, but don't want this to encourage long-term cliques within the class.
  
     > As a programming teacher who frequently organizes students into groups for brainstorming/problem-solving activities, I need to be able to assign students to groups randomly, but with weighting of previous assignments biasing the process against repeating the assignment of any given student subset too often, in order to keep the groupings dynamic and encourage cross-pollination of ideas and problem-solving approaches.
 
